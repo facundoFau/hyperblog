@@ -1,4 +1,16 @@
 body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    margin: 0;
+    padding: 0;
 }
+#contianer {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+
