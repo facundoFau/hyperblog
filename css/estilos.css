@@ -4,6 +4,7 @@ body {
     color: red;
     margin: 0;
     padding: 0.5em;
+    background: black;
 }
 #contianer {
     width: 70%;
@@ -13,11 +14,11 @@ body {
     margin: 0 auto;
 }
 #cabecera {
-    background: #33A;
+    background: url("imagenes/dragon.png") no-repeat center center;
     color: white;
     box-shadow: 0px 2px 50px 0px rgba(0,0, 0, 0.75) ;
     margin: 0;
-    padding: ;
+    padding: 0.5em;
     font-weight: bold ;
 
 }
@@ -27,4 +28,9 @@ body {
     font-size: 0.8em;
     padding: 1em 0 0 0 ;
 
+}
+
+#caberca #logo {
+    width: 20px;
+    vertical-align: middle;
 }
