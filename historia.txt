@@ -1,4 +1,8 @@
 de la vida de  Facundo Faauda viviendo en todo el mundo
 y obra maestra
 
+<<<<<<< HEAD
 master 2
+=======
+experimento 1
+>>>>>>> 87e65da (exp1)
